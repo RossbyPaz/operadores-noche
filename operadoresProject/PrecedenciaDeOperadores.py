@@ -6,4 +6,11 @@ resultado3 = ((42//6)+(7*3))-39 #+Prioridad 4
 resultado4 = (((42//6)+(7*3))-39) #- Prioridad 5
 
 
+#print(f"La suma de {numero1} y {numero2} es: {suma}")
+#print(f"La resta de {numero1} y {numero2} es: {resta}")
+#print(f"La multiplicacion de {numero1} y {numero2} es: {multiplicacion}")
+#print(f"La division de {numero1} y {numero2} es: {division}")
+#print(f"La modulo de {numero1} y {numero2} es: {modulo}")
+#print(f"La divisionentera de {numero1} y {numero2} es: {divisionentera}")
+
 print(resultado4)
